@@ -1,5 +1,5 @@
 # Prova finale: reti logiche
-Nel progetto si è sviluppato un modulo hardware FPGA che realizzi un codice convoluzionale 1/2, cioè un codice in cui per ogni bit in ingresso ne vengono generati due in uscita, secondo la seguente specifica:
+Nel progetto si è sviluppato un modulo hardware FPGA che realizza un codice convoluzionale 1/2, cioè un codice in cui per ogni bit in ingresso ne vengono generati due in uscita, secondo la seguente specifica:
 * sia U(t) il bit in ingresso al tempo t, tale per cui:
   * P1(t) = U(t) xor U(t-2)
   * P2(t) = U(t) xor U(t-1) xor U(t-2)
